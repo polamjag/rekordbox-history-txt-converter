@@ -17,5 +17,5 @@
     "publish": "next build && next export"
   },
   "author": "",
-  "license": "ISC"
+  "license": "MIT"
 }
